@@ -1,0 +1,21 @@
+{
+  "name": "bower-gulp-powered",
+  "description": "Description",
+  "main": "",
+  "authors": [
+    "Martin Lindgren <lindgren2d@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.6"
+  }
+}

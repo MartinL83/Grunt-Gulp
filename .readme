@@ -1,0 +1,11 @@
+##Install
+npm install
+bower install
+
+##Requirements
+Node, npm and git.
+
+##Info
+Bower to manage all front-end libraries. Gulp to perform all concatination,
+minification and compiling of SASS files and JS.
+With Bootstrap 4.0 alpha
