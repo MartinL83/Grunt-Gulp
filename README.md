@@ -1,7 +1,7 @@
 # Grunt-Gulp
-Base Grunt - Gulp - Bootstrap boilerplate.
+Grunt, Gulp & Bootstrap. Node.js <https://nodejs.org> is required. 
 
-### Install
+### Install - From project directory.
 * npm install
 * bower install
 * gulp
